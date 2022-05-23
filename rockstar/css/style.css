@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/personality.css");
+
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	color: #B85C38;
+}
+h1, h2, h3{
+	font-family: 'Raleway';
+	font-weight: lighter;
+}
+h2,h3{
+	color: #293462;
+}
+
+a {
+	font-size: 24px;
+	text-decoration: none;
+	text-align: center;
+	color: #FDEFEF;
+}
+a:hover {
+	color: #F1E1A6;
+	font-weight: bolder;
+}
+
+#img1 {
+	border-radius: 50;
+	width: 100px;
+	align-items: center;
+}

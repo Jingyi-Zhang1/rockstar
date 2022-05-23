@@ -1,0 +1,13 @@
+.button{
+	background-color: #069A8E;
+	padding: 15px 20px;
+	margin-top: 10px;
+	border-radius: 8px;
+	font-weight: lighter;
+	font-family: 'Open Sans;', cursive;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    align-items: center;
+}
